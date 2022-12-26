@@ -1,5 +1,5 @@
 import React from 'react'
-import { Carousel, Container, Nav, Navbar, NavDropdown, NavLink } from 'react-bootstrap'
+import { Carousel, Container, Nav, Navbar, NavDropdown } from 'react-bootstrap'
 
 
 export const Home = () => {

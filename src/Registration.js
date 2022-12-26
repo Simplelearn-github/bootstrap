@@ -1,5 +1,5 @@
-import React, { useState } from 'react'
-import { Button, Card, FormGroup } from 'react-bootstrap'
+import React, { useState } from 'react';
+
 
 export const Registration = () => {
     const[data,setData]=useState({
